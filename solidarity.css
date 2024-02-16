@@ -1,0 +1,105 @@
+header 
+{
+	color : blue ;
+	text-align : center ;
+	text-decoration : underline ;
+	font-size : 350% ;
+	padding : auto ;
+	border : 5px solid black ;
+	background-color : gray ; 
+	line-height : 2.5 ; 
+}
+/* img 
+{
+	display : inline-block ;
+	height : 200px ;
+	right : 20px ;
+	border : 3px solid-black ; 
+	padding : 3px ; 
+	position : absolute ;
+	left : 32px ;
+	top : 16px ;
+}
+img2
+{
+	display : inline-block ;
+	height : 200px ;
+	right : 20px ;
+	border : 3px solid-black ; 
+	padding : 3px ; 
+	position : absolute ;
+	left : 32px ;
+	top : 16px ;
+}
+*/
+body
+{
+	width: 100%;
+	height: 400px;
+	background-image: url(R100.jpg);
+	background-repeat: repeat, repeat, repeat;
+	background-position: top right, left, right;
+}
+h1
+{color : blue
+}
+h2
+{color : blue 
+}
+h3
+{
+	color : green ;
+	font-size : 300% ;
+}
+e1
+{
+	font-size : 200% ;
+	color : white ;
+}
+p5
+{
+	font-size : 267% ;
+}
+p3
+{
+	font-size : 267% ;
+}
+p2
+{
+	font-size : 267% ;
+}
+p6
+{
+	font-size : 200% ;
+	color : red
+}
+f0
+{
+	color : #E87735 ;
+	font-size : 400% ;
+}
+f1
+{
+	color : #EEC554 ;
+	font-size : 400% ;
+}
+f2
+{
+	color : #86CB2D ;
+	font-size : 400% ;
+}
+f3
+{
+	color : #1BC69E ;
+	font-size : 400% ;
+}
+f4
+{
+	color : #1B79C6 ;
+	font-size : 400% ;
+}
+f5
+{
+	color : #4F42C7 ;
+	font-size : 400% ;
+}
